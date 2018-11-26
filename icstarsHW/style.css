@@ -1,0 +1,25 @@
+.bigHead{
+    font-size: 5rem;
+    background-color: yellow;
+}
+
+.smallHead{
+    font-size: 1rem;
+    background-color: red;
+}
+
+.paragraph{
+    color:blue;
+    background-color: orange;
+}
+.paragraph:Hover{
+    transition: ease-in-out .3s;
+
+    
+
+    color:orange;
+    background-color:blue;
+}
+.notUsed{
+    background-color:brown;
+}
